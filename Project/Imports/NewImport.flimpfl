@@ -1,10 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProjectImport AutoSync="true" IncludePattern="KBTopicTemplate.htm">
-    <Files>
-        <Url Source="file:///C:/Users/Harkins/Desktop/Test1MC/testFlare2/testFlare2.flprj" AbsoluteSource="file:///C:/Users/Harkins/Desktop/Test1MC/testFlare2/testFlare2.flprj" />
-    </Files>
-    <ExcludedFiles />
-    <CollectedSourceFiles />
-    <SkippedSourceFiles />
-    <GeneratedFiles />
+<CatapultProjectImport
+  AutoSync="true"
+  IncludePattern="KBTopicTemplate.htm"
+  LastImport="2014-12-09T20:16:51.1611534-08:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/Harkins/Desktop/Test1MC/testFlare2/testFlare2.flprj"
+      AbsoluteSource="file:///C:/Users/Harkins/Desktop/Test1MC/testFlare2/testFlare2.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../../Test1MC/testFlare2/Content/KBTopicTemplate.htm"
+      AbsoluteSource="file:///C:/Users/Harkins/Desktop/Test1MC/testFlare2/Content/KBTopicTemplate.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/KBTopicTemplate.htm"
+      TimeStamp="12/5/2014 3:10:44 AM" />
+  </GeneratedFiles>
 </CatapultProjectImport>
